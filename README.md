@@ -20,7 +20,9 @@ This is the fourth story the data unit has done on rail fare rises. 12 months ag
 
 ## Get the data
 
-* *To be added*
+*The data in this story was based on the projections made at the time. The data predates the finalised increases that came into effect in January 2019 and may differ from the prices people pay from that date.*
+
+* CSV: [RPI vs CPI rail fares](https://github.com/BBC-Data-Unit/rail-fares-salary/blob/master/RPI%20vs%20CPI%20rail%20fares%20-%20BBC%20England%20Data%20Unit%20-%20Sheet1.csv)
 
 ## Interviews and quotes
 
